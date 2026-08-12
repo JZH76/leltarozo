@@ -10,6 +10,8 @@ az eszközök kiadása és visszahozatala, hogy ezek visszatekinthetőek legyene
 
 Weboldal Tulajdonságai:
 
+Rendelkezésre álló eszközök számontartása.
+
 Saját adatbázis létrehozása egyszerűen és a felhasználók biztonságos tárolására.
 
 Felhasználói Bejelentkezés és Regisztráció esetleg ECSET rendszerrel összekapcsolva.
